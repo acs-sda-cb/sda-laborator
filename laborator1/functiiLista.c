@@ -2,7 +2,7 @@
 
 /* Aloca un element de tip Celula si returneaza pointerul aferent */
 Lista AlocCelula(int elem) {
-    Lista aux = (Lista) malloc(sizeof(Celula));   /* alocare  */
+    Lista aux = (Lista) malloc(sizeof(Celula));   /* alocare */
     if (aux) {                                    /* aux != NULL */
         aux->info = elem;
         aux->urm = NULL;
