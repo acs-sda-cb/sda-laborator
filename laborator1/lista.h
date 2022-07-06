@@ -9,7 +9,8 @@ typedef struct celula{
     struct celula *urm;
 } Celula, *Lista, **ALista;
 /* Celula este un o variabila care retine 'info' si 'urm'
-   Lista este un pointer catre tipul Celula */
+   Lista este un pointer catre tipul Celula 
+   ALista este adresa unui pointer de tipul Lista*/
 
 Lista AlocCelula(int elem);
 Lista CitireLista(int *dimLista);
