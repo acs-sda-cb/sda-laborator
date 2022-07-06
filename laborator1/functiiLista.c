@@ -12,7 +12,7 @@ Lista AlocCelula(int elem) {
 
 /* Citeste de la tastatura numere de adaugat in lista */
 Lista CitireLista(int *dimLista) {
-    Lista L, aux, ultim;
+    Lista L = NULL, aux, ultim;
     int x;
     char ch;
     *dimLista = 0;
