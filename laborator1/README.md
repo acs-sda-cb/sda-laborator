@@ -1,13 +1,13 @@
 
-# **Laborator 1: Liste simplu inlantuite**
+# **Laborator 1: Liste simplu înlănțuite**
 
-Laboratorul pune la dispozitie 3 fisiere
+Laboratorul pune la dispoziție 3 fișiere
 <ul>
   <li>main.c</li>
   <li>functiiLista.c</li>
   <li>lista.h</li>
 </ul>
 
-In fisierul *main.c* vom apela functii definite in *functiiLista.c*.<br>
-In fisierul *functiiLista.c* vom defini functii pentru prelucrarea listelor.<br>
-Fisierul *lista.h* reprezinta un **fisier header**.
+În fișierul *main.c* vom apela funcții definite in *functiiLista.c*.<br>
+În fișierul *functiiLista.c* vom defini funcții pentru prelucrarea listelor.<br>
+Fișierul *lista.h* reprezintă un **fișier header**.
