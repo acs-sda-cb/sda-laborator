@@ -1,0 +1,13 @@
+
+# **Laborator 2: Liste simplu înlănțuite generice**
+
+Laboratorul pune la dispoziție 3 fișiere
+<ul>
+  <li>main.c</li>
+  <li>functiiLG.c</li>
+  <li>lg.h</li>
+</ul>
+
+În fișierul *main.c* vom apela funcții definite in *functiiLG.c*.<br>
+În fișierul *functiiLG.c* vom defini funcții pentru prelucrarea listelor.<br>
+Fișierul *lg.h* reprezintă un **fișier header**.
