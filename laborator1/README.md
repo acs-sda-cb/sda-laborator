@@ -8,6 +8,6 @@ Laboratorul pune la dispoziție 3 fișiere
   <li>lista.h</li>
 </ul>
 
-În fișierul *main.c* vom apela funcții definite in *functiiLista.c*.<br>
-În fișierul *functiiLista.c* vom defini funcții pentru prelucrarea listelor.<br>
+În fișierul *main.c* vom apela funcții definite în *functiiLista.c*.<br>
+În fișierul *functiiLista.c* vom defini funcții pentru prelucrarea **Listelor simplu înlănțuite**.<br>
 Fișierul *lista.h* reprezintă un **fișier header**.
