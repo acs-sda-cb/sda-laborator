@@ -9,5 +9,5 @@ Laboratorul pune la dispoziție 3 fișiere
 </ul>
 
 În fișierul *main.c* vom apela funcții definite in *functiiLG.c*.<br>
-În fișierul *functiiLG.c* vom defini funcții pentru prelucrarea listelor.<br>
+În fișierul *functiiLG.c* vom defini funcții pentru prelucrarea **Listelor înlănțuite generice**.<br>
 Fișierul *lg.h* reprezintă un **fișier header**.
